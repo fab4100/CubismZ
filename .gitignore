@@ -1,0 +1,10 @@
+*~
+*.bak
+*.swp
+*.swo
+*.o
+*.cz
+*.h5
+*.xmf
+.DS_Store
+set_headers.py
